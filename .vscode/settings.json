@@ -1,3 +1,4 @@
 {
-    "notebook.output.textLineLimit": 3000
+    "notebook.output.textLineLimit": 3000,
+    "cSpell.language": "en,es,es-ES"
 }
